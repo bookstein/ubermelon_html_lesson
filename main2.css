@@ -1,5 +1,5 @@
 body{
-    font-family: sans-serif;
+    font-family: 'PT Sans', sans-serif;
     margin: 0;
 }
 
@@ -24,7 +24,10 @@ body{
     color: green;
     text-decoration: none
 }
-    
+
+#header a:hover, #footer a:hover{
+    color: orange;
+}
 
 h1{
     color:orange;
